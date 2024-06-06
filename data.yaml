@@ -1,0 +1,6 @@
+train: license-plate.v5i.yolov8/train
+val: license-plate.v5i.yolov8/valid
+test: license-plate.v5i.yolov8/test
+
+nc: 1  
+names: ['license_plate']
